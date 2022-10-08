@@ -1,3 +1,4 @@
+#commented by lesia
 ### Twitter Trend Search###
 ### TeCoEd ###
 import gspread
